@@ -114,9 +114,9 @@ Luego abrí tu navegador en: **http://localhost:8050**
 
 ---
 
-## 👤 Autora
+## 👤 Autores
 
-**Varto Desing**  
+Valentin Rasjido y Manuel Lozano 
 Instituto Superior Manuel Belgrano  
 Tecnicatura en Ciencia de Datos e Inteligencia Artificial — 2° Año  
 Programación Orientada al Análisis de Datos (POAD)
